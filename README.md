@@ -2,9 +2,9 @@
 **6DWEB Final Requirement**
 CYB-201
 Members:
-Bojos, Ryan Marc
-David, Irvin Clarence 
-Flores, Alexandra Sofia
+Bojos, Ryan Marc || 
+David, Irvin Clarence ||
+Flores, Alexandra Sofia || 
 Navarro, Mart
 
 
