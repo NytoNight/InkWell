@@ -13,6 +13,8 @@ https://inkwell.folded.cloud/
 
 **DATABASE LINK**
 phpmyadmin.folded.cloud
+USER: inkwell
+PASS: !nkw3ll-333
 
 **VIDEO PRESENTATION**
 Link 1 : https://drive.google.com/file/d/1l2lwh9aa1Ag5STQ5gWAr7ojO1J0srlhC/view
